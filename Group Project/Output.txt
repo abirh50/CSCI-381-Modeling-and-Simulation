@@ -1,0 +1,370 @@
+Clock Time: 0.0
+
+***************** Future_Event_List *****************
+Patient#3 type C: will arrive at 0.002739506550011697
+Patient#2 type B: will arrive at 0.01721148707288796
+Patient#1 type A: will arrive at 0.19037548513211758
+
+****************** Reception_Desk *******************
+
+****************** Delayed_List_A *******************
+
+****************** Delayed_List_B *******************
+
+****************** Delayed_List_C *******************
+
+---------------------------------------------------------
+Clock Time: 0.002739506550011697
+
+***************** Future_Event_List *****************
+Patient#2 type B: will arrive at 0.01721148707288796
+Patient#3 type C: will finish registering at 0.06424246459266937
+Patient#1 type A: will arrive at 0.19037548513211758
+Patient#4 type C: will arrive at 0.4336866003151557
+
+****************** Reception_Desk *******************
+
+****************** Delayed_List_A *******************
+
+****************** Delayed_List_B *******************
+
+****************** Delayed_List_C *******************
+
+---------------------------------------------------------
+Clock Time: 0.01721148707288796
+
+***************** Future_Event_List *****************
+Patient#3 type C: will finish registering at 0.06424246459266937
+Patient#5 type B: will arrive at 0.13881288761068655
+Patient#1 type A: will arrive at 0.19037548513211758
+Patient#4 type C: will arrive at 0.4336866003151557
+
+****************** Reception_Desk *******************
+Patient#2 type B: wait for registering at 0.01721148707288796
+
+****************** Delayed_List_A *******************
+
+****************** Delayed_List_B *******************
+
+****************** Delayed_List_C *******************
+
+---------------------------------------------------------
+Clock Time: 0.06424246459266937
+
+***************** Future_Event_List *****************
+Patient#3 type C: will end service at 0.07751651221475907
+Patient#2 type B: will finish registering at 0.08759972187734996
+Patient#5 type B: will arrive at 0.13881288761068655
+Patient#1 type A: will arrive at 0.19037548513211758
+Patient#4 type C: will arrive at 0.4336866003151557
+
+****************** Reception_Desk *******************
+
+****************** Delayed_List_A *******************
+
+****************** Delayed_List_B *******************
+
+****************** Delayed_List_C *******************
+
+---------------------------------------------------------
+Clock Time: 0.07751651221475907
+
+***************** Future_Event_List *****************
+Patient#2 type B: will finish registering at 0.08759972187734996
+Patient#5 type B: will arrive at 0.13881288761068655
+Patient#1 type A: will arrive at 0.19037548513211758
+Patient#4 type C: will arrive at 0.4336866003151557
+
+****************** Reception_Desk *******************
+
+****************** Delayed_List_A *******************
+
+****************** Delayed_List_B *******************
+
+****************** Delayed_List_C *******************
+
+---------------------------------------------------------
+Clock Time: 0.08759972187734996
+
+***************** Future_Event_List *****************
+Patient#5 type B: will arrive at 0.13881288761068655
+Patient#2 type B: will end service at 0.1507652392297079
+Patient#1 type A: will arrive at 0.19037548513211758
+Patient#4 type C: will arrive at 0.4336866003151557
+
+****************** Reception_Desk *******************
+
+****************** Delayed_List_A *******************
+
+****************** Delayed_List_B *******************
+
+****************** Delayed_List_C *******************
+
+---------------------------------------------------------
+Clock Time: 0.13881288761068655
+
+***************** Future_Event_List *****************
+Patient#5 type B: will finish registering at 0.14164475594924217
+Patient#2 type B: will end service at 0.1507652392297079
+Patient#1 type A: will arrive at 0.19037548513211758
+Patient#6 type B: will arrive at 0.22013392639314155
+Patient#4 type C: will arrive at 0.4336866003151557
+
+****************** Reception_Desk *******************
+
+****************** Delayed_List_A *******************
+
+****************** Delayed_List_B *******************
+
+****************** Delayed_List_C *******************
+
+---------------------------------------------------------
+Clock Time: 0.14164475594924217
+
+***************** Future_Event_List *****************
+Patient#2 type B: will end service at 0.1507652392297079
+Patient#1 type A: will arrive at 0.19037548513211758
+Patient#6 type B: will arrive at 0.22013392639314155
+Patient#4 type C: will arrive at 0.4336866003151557
+
+****************** Reception_Desk *******************
+
+****************** Delayed_List_A *******************
+
+****************** Delayed_List_B *******************
+Patient#5 type B: start waiting at 0.14164475594924217
+
+****************** Delayed_List_C *******************
+
+---------------------------------------------------------
+Clock Time: 0.1507652392297079
+
+***************** Future_Event_List *****************
+Patient#1 type A: will arrive at 0.19037548513211758
+Patient#6 type B: will arrive at 0.22013392639314155
+Patient#5 type B: will end service at 0.26049475498892777
+Patient#4 type C: will arrive at 0.4336866003151557
+
+****************** Reception_Desk *******************
+
+****************** Delayed_List_A *******************
+
+****************** Delayed_List_B *******************
+
+****************** Delayed_List_C *******************
+
+---------------------------------------------------------
+Clock Time: 0.19037548513211758
+
+***************** Future_Event_List *****************
+Patient#6 type B: will arrive at 0.22013392639314155
+Patient#1 type A: will finish registering at 0.24845362951576683
+Patient#5 type B: will end service at 0.26049475498892777
+Patient#7 type A: will arrive at 0.28359143894567246
+Patient#4 type C: will arrive at 0.4336866003151557
+
+****************** Reception_Desk *******************
+
+****************** Delayed_List_A *******************
+
+****************** Delayed_List_B *******************
+
+****************** Delayed_List_C *******************
+
+---------------------------------------------------------
+Clock Time: 0.22013392639314155
+
+***************** Future_Event_List *****************
+Patient#1 type A: will finish registering at 0.24845362951576683
+Patient#5 type B: will end service at 0.26049475498892777
+Patient#7 type A: will arrive at 0.28359143894567246
+Patient#4 type C: will arrive at 0.4336866003151557
+Patient#8 type B: will arrive at 0.5781357384563368
+
+****************** Reception_Desk *******************
+Patient#6 type B: wait for registering at 0.22013392639314155
+
+****************** Delayed_List_A *******************
+
+****************** Delayed_List_B *******************
+
+****************** Delayed_List_C *******************
+
+---------------------------------------------------------
+Clock Time: 0.24845362951576683
+
+***************** Future_Event_List *****************
+Patient#6 type B: will finish registering at 0.2542953710032031
+Patient#5 type B: will end service at 0.26049475498892777
+Patient#7 type A: will arrive at 0.28359143894567246
+Patient#1 type A: will end service at 0.40687746766582444
+Patient#4 type C: will arrive at 0.4336866003151557
+Patient#8 type B: will arrive at 0.5781357384563368
+
+****************** Reception_Desk *******************
+
+****************** Delayed_List_A *******************
+
+****************** Delayed_List_B *******************
+
+****************** Delayed_List_C *******************
+
+---------------------------------------------------------
+Clock Time: 0.2542953710032031
+
+***************** Future_Event_List *****************
+Patient#5 type B: will end service at 0.26049475498892777
+Patient#7 type A: will arrive at 0.28359143894567246
+Patient#1 type A: will end service at 0.40687746766582444
+Patient#4 type C: will arrive at 0.4336866003151557
+Patient#8 type B: will arrive at 0.5781357384563368
+
+****************** Reception_Desk *******************
+
+****************** Delayed_List_A *******************
+
+****************** Delayed_List_B *******************
+Patient#6 type B: start waiting at 0.2542953710032031
+
+****************** Delayed_List_C *******************
+
+---------------------------------------------------------
+Clock Time: 0.26049475498892777
+
+***************** Future_Event_List *****************
+Patient#7 type A: will arrive at 0.28359143894567246
+Patient#1 type A: will end service at 0.40687746766582444
+Patient#6 type B: will end service at 0.4239290534618546
+Patient#4 type C: will arrive at 0.4336866003151557
+Patient#8 type B: will arrive at 0.5781357384563368
+
+****************** Reception_Desk *******************
+
+****************** Delayed_List_A *******************
+
+****************** Delayed_List_B *******************
+
+****************** Delayed_List_C *******************
+
+---------------------------------------------------------
+Clock Time: 0.28359143894567246
+
+***************** Future_Event_List *****************
+Patient#7 type A: will finish registering at 0.3097515885663844
+Patient#1 type A: will end service at 0.40687746766582444
+Patient#6 type B: will end service at 0.4239290534618546
+Patient#4 type C: will arrive at 0.4336866003151557
+Patient#9 type A: will arrive at 0.4924368400832564
+Patient#8 type B: will arrive at 0.5781357384563368
+
+****************** Reception_Desk *******************
+
+****************** Delayed_List_A *******************
+
+****************** Delayed_List_B *******************
+
+****************** Delayed_List_C *******************
+
+---------------------------------------------------------
+Clock Time: 0.3097515885663844
+
+***************** Future_Event_List *****************
+Patient#1 type A: will end service at 0.40687746766582444
+Patient#6 type B: will end service at 0.4239290534618546
+Patient#4 type C: will arrive at 0.4336866003151557
+Patient#9 type A: will arrive at 0.4924368400832564
+Patient#8 type B: will arrive at 0.5781357384563368
+
+****************** Reception_Desk *******************
+
+****************** Delayed_List_A *******************
+Patient#7 type A: start waiting at 0.3097515885663844
+
+****************** Delayed_List_B *******************
+
+****************** Delayed_List_C *******************
+
+---------------------------------------------------------
+Clock Time: 0.40687746766582444
+
+***************** Future_Event_List *****************
+Patient#6 type B: will end service at 0.4239290534618546
+Patient#4 type C: will arrive at 0.4336866003151557
+Patient#7 type A: will end service at 0.48501785062956304
+Patient#9 type A: will arrive at 0.4924368400832564
+Patient#8 type B: will arrive at 0.5781357384563368
+
+****************** Reception_Desk *******************
+
+****************** Delayed_List_A *******************
+
+****************** Delayed_List_B *******************
+
+****************** Delayed_List_C *******************
+
+---------------------------------------------------------
+Clock Time: 0.4239290534618546
+
+***************** Future_Event_List *****************
+Patient#4 type C: will arrive at 0.4336866003151557
+Patient#7 type A: will end service at 0.48501785062956304
+Patient#9 type A: will arrive at 0.4924368400832564
+Patient#8 type B: will arrive at 0.5781357384563368
+
+****************** Reception_Desk *******************
+
+****************** Delayed_List_A *******************
+
+****************** Delayed_List_B *******************
+
+****************** Delayed_List_C *******************
+
+---------------------------------------------------------
+Clock Time: 0.4336866003151557
+
+***************** Future_Event_List *****************
+Patient#10 type C: will arrive at 0.4544249975504346
+Patient#4 type C: will finish registering at 0.4731768159592156
+Patient#7 type A: will end service at 0.48501785062956304
+Patient#9 type A: will arrive at 0.4924368400832564
+Patient#8 type B: will arrive at 0.5781357384563368
+
+****************** Reception_Desk *******************
+
+****************** Delayed_List_A *******************
+
+****************** Delayed_List_B *******************
+
+****************** Delayed_List_C *******************
+
+---------------------------------------------------------
+Clock Time: 0.4544249975504346
+
+***************** Future_Event_List *****************
+Patient#4 type C: will finish registering at 0.4731768159592156
+Patient#7 type A: will end service at 0.48501785062956304
+Patient#9 type A: will arrive at 0.4924368400832564
+Patient#11 type C: will arrive at 0.4983090085435094
+Patient#8 type B: will arrive at 0.5781357384563368
+
+****************** Reception_Desk *******************
+Patient#10 type C: wait for registering at 0.4544249975504346
+
+****************** Delayed_List_A *******************
+
+****************** Delayed_List_B *******************
+
+****************** Delayed_List_C *******************
+
+---------------------------------------------------------
+Average Queue Length:
+Reception: 4.002615007845024
+delA: 2.9941344635253193
+delB: 3.9345109517917436
+delC: 5.014151374162477
+
+Average Idle Period: 
+Reception: 0.04169417077615329
+Patient<A>: 0.168099585239446
+Patient<B>: 0.12500693724964346
+Patient<C>: 0.09965916031977474

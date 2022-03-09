@@ -1,0 +1,469 @@
+Clock Time: 0.0
+---------------------------------
+FEL:
+[Patient 3 type C: arrives at 0.0345646227003172
+Patient 2 type B: arrives at 0.12418610985675245
+Patient 1 type A: arrives at 0.21492626745611376
+]
+------------Waiting Room---------
+DELA:
+[]
+---------------------------------
+DELB:
+[]
+---------------------------------
+DELC:
+[]
+---------------------------------
+
+Clock Time: 0.0345646227003172
+---------------------------------
+FEL:
+[Patient 4 type C: arrives at 0.11948526609243343
+Patient 2 type B: arrives at 0.12418610985675245
+Patient 1 type A: arrives at 0.21492626745611376
+Patient 3 type C: will end service at 0.418849339923175
+]
+------------Waiting Room---------
+DELA:
+[]
+---------------------------------
+DELB:
+[]
+---------------------------------
+DELC:
+[]
+---------------------------------
+
+Clock Time: 0.11948526609243343
+---------------------------------
+FEL:
+[Patient 2 type B: arrives at 0.12418610985675245
+Patient 5 type C: arrives at 0.1653670866525171
+Patient 1 type A: arrives at 0.21492626745611376
+Patient 3 type C: will end service at 0.418849339923175
+]
+------------Waiting Room---------
+DELA:
+[]
+---------------------------------
+DELB:
+[]
+---------------------------------
+DELC:
+[Patient 4 type C: start waiting at 0.11948526609243343
+]
+---------------------------------
+
+Clock Time: 0.12418610985675245
+---------------------------------
+FEL:
+[Patient 6 type B: arrives at 0.14610849155014066
+Patient 2 type B: will end service at 0.160093682846545
+Patient 5 type C: arrives at 0.1653670866525171
+Patient 1 type A: arrives at 0.21492626745611376
+Patient 3 type C: will end service at 0.418849339923175
+]
+------------Waiting Room---------
+DELA:
+[]
+---------------------------------
+DELB:
+[]
+---------------------------------
+DELC:
+[Patient 4 type C: start waiting at 0.11948526609243343
+]
+---------------------------------
+
+Clock Time: 0.14610849155014066
+---------------------------------
+FEL:
+[Patient 2 type B: will end service at 0.160093682846545
+Patient 5 type C: arrives at 0.1653670866525171
+Patient 7 type B: arrives at 0.18960532547802977
+Patient 1 type A: arrives at 0.21492626745611376
+Patient 3 type C: will end service at 0.418849339923175
+]
+------------Waiting Room---------
+DELA:
+[]
+---------------------------------
+DELB:
+[Patient 6 type B: start waiting at 0.14610849155014066
+]
+---------------------------------
+DELC:
+[Patient 4 type C: start waiting at 0.11948526609243343
+]
+---------------------------------
+
+Clock Time: 0.160093682846545
+---------------------------------
+FEL:
+[Patient 5 type C: arrives at 0.1653670866525171
+Patient 7 type B: arrives at 0.18960532547802977
+Patient 6 type B: will end service at 0.2027711577103441
+Patient 1 type A: arrives at 0.21492626745611376
+Patient 3 type C: will end service at 0.418849339923175
+]
+------------Waiting Room---------
+DELA:
+[]
+---------------------------------
+DELB:
+[]
+---------------------------------
+DELC:
+[Patient 4 type C: start waiting at 0.11948526609243343
+]
+---------------------------------
+
+Clock Time: 0.1653670866525171
+---------------------------------
+FEL:
+[Patient 7 type B: arrives at 0.18960532547802977
+Patient 6 type B: will end service at 0.2027711577103441
+Patient 1 type A: arrives at 0.21492626745611376
+Patient 8 type C: arrives at 0.22622883913666786
+Patient 3 type C: will end service at 0.418849339923175
+]
+------------Waiting Room---------
+DELA:
+[]
+---------------------------------
+DELB:
+[]
+---------------------------------
+DELC:
+[Patient 4 type C: start waiting at 0.11948526609243343
+Patient 5 type C: start waiting at 0.1653670866525171
+]
+---------------------------------
+
+Clock Time: 0.18960532547802977
+---------------------------------
+FEL:
+[Patient 6 type B: will end service at 0.2027711577103441
+Patient 1 type A: arrives at 0.21492626745611376
+Patient 8 type C: arrives at 0.22622883913666786
+Patient 9 type B: arrives at 0.24345013419389025
+Patient 3 type C: will end service at 0.418849339923175
+]
+------------Waiting Room---------
+DELA:
+[]
+---------------------------------
+DELB:
+[Patient 7 type B: start waiting at 0.18960532547802977
+]
+---------------------------------
+DELC:
+[Patient 4 type C: start waiting at 0.11948526609243343
+Patient 5 type C: start waiting at 0.1653670866525171
+]
+---------------------------------
+
+Clock Time: 0.2027711577103441
+---------------------------------
+FEL:
+[Patient 1 type A: arrives at 0.21492626745611376
+Patient 8 type C: arrives at 0.22622883913666786
+Patient 9 type B: arrives at 0.24345013419389025
+Patient 7 type B: will end service at 0.2748564254854915
+Patient 3 type C: will end service at 0.418849339923175
+]
+------------Waiting Room---------
+DELA:
+[]
+---------------------------------
+DELB:
+[]
+---------------------------------
+DELC:
+[Patient 4 type C: start waiting at 0.11948526609243343
+Patient 5 type C: start waiting at 0.1653670866525171
+]
+---------------------------------
+
+Clock Time: 0.21492626745611376
+---------------------------------
+FEL:
+[Patient 8 type C: arrives at 0.22622883913666786
+Patient 9 type B: arrives at 0.24345013419389025
+Patient 1 type A: will end service at 0.2565339653831489
+Patient 7 type B: will end service at 0.2748564254854915
+Patient 3 type C: will end service at 0.418849339923175
+Patient 10 type A: arrives at 0.5151297248070064
+]
+------------Waiting Room---------
+DELA:
+[]
+---------------------------------
+DELB:
+[]
+---------------------------------
+DELC:
+[Patient 4 type C: start waiting at 0.11948526609243343
+Patient 5 type C: start waiting at 0.1653670866525171
+]
+---------------------------------
+
+Clock Time: 0.22622883913666786
+---------------------------------
+FEL:
+[Patient 9 type B: arrives at 0.24345013419389025
+Patient 1 type A: will end service at 0.2565339653831489
+Patient 7 type B: will end service at 0.2748564254854915
+Patient 11 type C: arrives at 0.3622676892500485
+Patient 3 type C: will end service at 0.418849339923175
+Patient 10 type A: arrives at 0.5151297248070064
+]
+------------Waiting Room---------
+DELA:
+[]
+---------------------------------
+DELB:
+[]
+---------------------------------
+DELC:
+[Patient 4 type C: start waiting at 0.11948526609243343
+Patient 5 type C: start waiting at 0.1653670866525171
+Patient 8 type C: start waiting at 0.22622883913666786
+]
+---------------------------------
+
+Clock Time: 0.24345013419389025
+---------------------------------
+FEL:
+[Patient 12 type B: arrives at 0.24400127804055724
+Patient 1 type A: will end service at 0.2565339653831489
+Patient 7 type B: will end service at 0.2748564254854915
+Patient 11 type C: arrives at 0.3622676892500485
+Patient 3 type C: will end service at 0.418849339923175
+Patient 10 type A: arrives at 0.5151297248070064
+]
+------------Waiting Room---------
+DELA:
+[]
+---------------------------------
+DELB:
+[Patient 9 type B: start waiting at 0.24345013419389025
+]
+---------------------------------
+DELC:
+[Patient 4 type C: start waiting at 0.11948526609243343
+Patient 5 type C: start waiting at 0.1653670866525171
+Patient 8 type C: start waiting at 0.22622883913666786
+]
+---------------------------------
+
+Clock Time: 0.24400127804055724
+---------------------------------
+FEL:
+[Patient 1 type A: will end service at 0.2565339653831489
+Patient 7 type B: will end service at 0.2748564254854915
+Patient 11 type C: arrives at 0.3622676892500485
+Patient 13 type B: arrives at 0.3640172237048517
+Patient 3 type C: will end service at 0.418849339923175
+Patient 10 type A: arrives at 0.5151297248070064
+]
+------------Waiting Room---------
+DELA:
+[]
+---------------------------------
+DELB:
+[Patient 9 type B: start waiting at 0.24345013419389025
+Patient 12 type B: start waiting at 0.24400127804055724
+]
+---------------------------------
+DELC:
+[Patient 4 type C: start waiting at 0.11948526609243343
+Patient 5 type C: start waiting at 0.1653670866525171
+Patient 8 type C: start waiting at 0.22622883913666786
+]
+---------------------------------
+
+Clock Time: 0.2565339653831489
+---------------------------------
+FEL:
+[Patient 7 type B: will end service at 0.2748564254854915
+Patient 11 type C: arrives at 0.3622676892500485
+Patient 13 type B: arrives at 0.3640172237048517
+Patient 3 type C: will end service at 0.418849339923175
+Patient 10 type A: arrives at 0.5151297248070064
+]
+------------Waiting Room---------
+DELA:
+[]
+---------------------------------
+DELB:
+[Patient 9 type B: start waiting at 0.24345013419389025
+Patient 12 type B: start waiting at 0.24400127804055724
+]
+---------------------------------
+DELC:
+[Patient 4 type C: start waiting at 0.11948526609243343
+Patient 5 type C: start waiting at 0.1653670866525171
+Patient 8 type C: start waiting at 0.22622883913666786
+]
+---------------------------------
+
+Clock Time: 0.2748564254854915
+---------------------------------
+FEL:
+[Patient 11 type C: arrives at 0.3622676892500485
+Patient 13 type B: arrives at 0.3640172237048517
+Patient 9 type B: will end service at 0.39193217863903074
+Patient 3 type C: will end service at 0.418849339923175
+Patient 10 type A: arrives at 0.5151297248070064
+]
+------------Waiting Room---------
+DELA:
+[]
+---------------------------------
+DELB:
+[Patient 12 type B: start waiting at 0.24400127804055724
+]
+---------------------------------
+DELC:
+[Patient 4 type C: start waiting at 0.11948526609243343
+Patient 5 type C: start waiting at 0.1653670866525171
+Patient 8 type C: start waiting at 0.22622883913666786
+]
+---------------------------------
+
+Clock Time: 0.3622676892500485
+---------------------------------
+FEL:
+[Patient 13 type B: arrives at 0.3640172237048517
+Patient 9 type B: will end service at 0.39193217863903074
+Patient 14 type C: arrives at 0.39992763230467865
+Patient 3 type C: will end service at 0.418849339923175
+Patient 10 type A: arrives at 0.5151297248070064
+]
+------------Waiting Room---------
+DELA:
+[]
+---------------------------------
+DELB:
+[Patient 12 type B: start waiting at 0.24400127804055724
+]
+---------------------------------
+DELC:
+[Patient 4 type C: start waiting at 0.11948526609243343
+Patient 5 type C: start waiting at 0.1653670866525171
+Patient 8 type C: start waiting at 0.22622883913666786
+Patient 11 type C: start waiting at 0.3622676892500485
+]
+---------------------------------
+
+Clock Time: 0.3640172237048517
+---------------------------------
+FEL:
+[Patient 9 type B: will end service at 0.39193217863903074
+Patient 14 type C: arrives at 0.39992763230467865
+Patient 3 type C: will end service at 0.418849339923175
+Patient 15 type B: arrives at 0.4214017240601942
+Patient 10 type A: arrives at 0.5151297248070064
+]
+------------Waiting Room---------
+DELA:
+[]
+---------------------------------
+DELB:
+[Patient 12 type B: start waiting at 0.24400127804055724
+Patient 13 type B: start waiting at 0.3640172237048517
+]
+---------------------------------
+DELC:
+[Patient 4 type C: start waiting at 0.11948526609243343
+Patient 5 type C: start waiting at 0.1653670866525171
+Patient 8 type C: start waiting at 0.22622883913666786
+Patient 11 type C: start waiting at 0.3622676892500485
+]
+---------------------------------
+
+Clock Time: 0.39193217863903074
+---------------------------------
+FEL:
+[Patient 14 type C: arrives at 0.39992763230467865
+Patient 3 type C: will end service at 0.418849339923175
+Patient 15 type B: arrives at 0.4214017240601942
+Patient 10 type A: arrives at 0.5151297248070064
+Patient 12 type B: will end service at 0.5512183214359856
+]
+------------Waiting Room---------
+DELA:
+[]
+---------------------------------
+DELB:
+[Patient 13 type B: start waiting at 0.3640172237048517
+]
+---------------------------------
+DELC:
+[Patient 4 type C: start waiting at 0.11948526609243343
+Patient 5 type C: start waiting at 0.1653670866525171
+Patient 8 type C: start waiting at 0.22622883913666786
+Patient 11 type C: start waiting at 0.3622676892500485
+]
+---------------------------------
+
+Clock Time: 0.39992763230467865
+---------------------------------
+FEL:
+[Patient 3 type C: will end service at 0.418849339923175
+Patient 15 type B: arrives at 0.4214017240601942
+Patient 16 type C: arrives at 0.49292216301554914
+Patient 10 type A: arrives at 0.5151297248070064
+Patient 12 type B: will end service at 0.5512183214359856
+]
+------------Waiting Room---------
+DELA:
+[]
+---------------------------------
+DELB:
+[Patient 13 type B: start waiting at 0.3640172237048517
+]
+---------------------------------
+DELC:
+[Patient 4 type C: start waiting at 0.11948526609243343
+Patient 5 type C: start waiting at 0.1653670866525171
+Patient 8 type C: start waiting at 0.22622883913666786
+Patient 11 type C: start waiting at 0.3622676892500485
+Patient 14 type C: start waiting at 0.39992763230467865
+]
+---------------------------------
+
+Clock Time: 0.418849339923175
+---------------------------------
+FEL:
+[Patient 15 type B: arrives at 0.4214017240601942
+Patient 16 type C: arrives at 0.49292216301554914
+Patient 10 type A: arrives at 0.5151297248070064
+Patient 4 type C: will end service at 0.5371905249186115
+Patient 12 type B: will end service at 0.5512183214359856
+]
+------------Waiting Room---------
+DELA:
+[]
+---------------------------------
+DELB:
+[Patient 13 type B: start waiting at 0.3640172237048517
+]
+---------------------------------
+DELC:
+[Patient 5 type C: start waiting at 0.1653670866525171
+Patient 8 type C: start waiting at 0.22622883913666786
+Patient 11 type C: start waiting at 0.3622676892500485
+Patient 14 type C: start waiting at 0.39992763230467865
+]
+---------------------------------
+
+Ave length:
+delA: 3.520487264673311
+delB: 4.17036479879654
+delC: 5.972361809045226
+
+Avg idle period: 3.062085892636367 77.0
+Avg idle period: 0.03976734925501776
